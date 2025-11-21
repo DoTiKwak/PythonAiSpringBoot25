@@ -6,6 +6,9 @@ Python과 CCTV와 풀스택 개발 학습
 
 개발환경구축
 
+<img width="2813" height="1372" alt="image" src="https://github.com/user-attachments/assets/c2693148-4fc5-41fb-9826-329f8f9cb708" />
+
+
 파이썬 인터프리터 : http://www.python.org/ -> 3.12버전 설치(3.8이상필수)
 
 IDE 설치 : https://www.jetbrains.com/ko-kr/pycharm/download/?section=windows -> 커뮤니티 설치
